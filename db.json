@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title":"Lasanha do Cheff" ,
+      "img":"https://i.ibb.co/LhNTZjt/lasanha-cheff.jpg" ,
+      "price": 25
+      
+    },
+    {
+      "id": 2,
+      "title":"Raviolli ao Molho de Alcaparras" ,
+      "img":"https://i.ibb.co/j9CpfC5/ravioli.jpg" ,
+      "price": 23
+      
+    },
+    {
+      "id": 3,
+      "title":"Talharim a Marguerita" ,
+      "img":"https://i.ibb.co/mFWFGJn/talharim.jpg" ,
+      "price": 20
+      
+    },
+    {
+      "id": 4,
+      "title":"Talharim a Carbonara" ,
+      "img":"https://i.ibb.co/w7ZZptX/carbonara.jpg" ,
+      "price": 20
+      
+    },
+    {
+      "id": 5,
+      "title":"Penne ao Molho Branco e Bacon" ,
+      "img":"https://i.ibb.co/gR9BM8d/penne-molho.jpg" ,
+      "price": 20
+      
+    },
+    {
+      "id": 6,
+      "title":"Penne ao Pesto" ,
+      "img":"https://i.ibb.co/KwvYtwm/penne-pesto.jpg" ,
+      "price": 24
+      
+    },
+    {
+      "id": 7,
+      "title":"Nhoque a Bolonhesa" ,
+      "img":"https://i.ibb.co/19sqQMH/nhoque.jpg" ,
+      "price": 26
+      
+    },
+    {
+      "id": 8,
+      "title":"Spaguetti ao Camarão" ,
+      "img":"https://i.ibb.co/xM52HXP/spagueti-camarao.jpg" ,
+      "price": 30
+      
+    },
+    {
+      "id": 9,
+      "title":"Lamen Oriental" ,
+      "img":"https://i.ibb.co/CPgfXL9/lamen.jpg" ,
+      "price": 32
+      
+    }
+    
+  ]
+}
