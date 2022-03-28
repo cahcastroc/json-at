@@ -1,5 +1,5 @@
 {
-  "products": {
+  "products": [
     {
       "id": 1,
       "title":"Lasanha do Cheff" ,
@@ -72,5 +72,5 @@
       
     }
     
-}
+ ]
 }
